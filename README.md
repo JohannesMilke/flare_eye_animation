@@ -5,4 +5,5 @@ Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Mi
 
 Medium: https://medium.com/@johannesmilke
 
-If you are new to Flutter and want to get started --> Install Flutter.
+#### If you are new to Flutter and want to get started --> [Install Flutter](https://flutter.io/docs/get-started/install "Install Flutter").
+
