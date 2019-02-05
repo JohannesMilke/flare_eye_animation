@@ -1,16 +1,8 @@
-# flare_eye_animation
+# FlareEyeAnimation
+Make use of Flare with animations, solo nodes to change the visibility of your animations and let the face on the screen follow your gestures.
 
-A new Flutter project.
+Twitter: @JohannesMilke
 
-## Getting Started
+Medium: https://medium.com/@johannesmilke
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+If you are new to Flutter and want to get started --> Install Flutter.
